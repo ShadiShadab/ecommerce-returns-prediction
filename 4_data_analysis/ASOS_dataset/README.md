@@ -51,7 +51,7 @@ We evaluated them using **ROC AUC**, which measures how well a model separates r
 
 📉 ROC Curves:
 
-![XGBoost ROC]](Models/xgboost_roc_curve.png)
+![XGBoost ROC](Models/xgboost_roc_curve.png)
 ![Logistic Regression ROC](Models/logisticregression_roc_curve.png)
 
 
